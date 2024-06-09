@@ -25,14 +25,3 @@ func GetClient() *mongo.Client {
 	*/
 	return client
 }
-
-/*
-func GetSession() *mgo.Session {
-	session, err := mgo.Dial("mongodb://localhost:27017")
-	if err != nil {
-		panic(err)
-	} else {
-		return session
-	}
-}
-*/
