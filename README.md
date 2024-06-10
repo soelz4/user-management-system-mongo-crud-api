@@ -21,7 +21,7 @@ help                 💬 This Help Message
 lint                 🔎 Lint & Format, will not Fix but Sets Exit Code on Error
 lint-fix             📜 Lint & Format, will Try to Fix Errors and Modify Code
 build                🔨 Build Binary File
-run                  >_ Run the Web Server Locally at PORT 8080
+run                  >_ Run the Web Server Locally at PORT 9010
 init                 📥 Download Dependencies From go.mod File
 clean                🧹 Clean up Project
 mongodb              🌱 Pull MongoDB Docker Image from Docker Hub Registry
